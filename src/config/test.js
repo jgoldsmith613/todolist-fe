@@ -1,4 +1,4 @@
 export default {
   todoEndpoint:
-    "http://todolist-api-<YOUR_NAME>-test.apps.somedomain.com/api/todos"
+    "http://todolist-api-justin-test.apps.somedomain.com/api/todos"
 };

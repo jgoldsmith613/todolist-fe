@@ -1,5 +1,5 @@
-PIPELINES_NAMESPACE=<YOUR_NAME>-ci-cd
+PIPELINES_NAMESPACE=justin-ci-cd
 NAME=todolist-fe
 DEPLOYER_USER=jenkins
 APP_TAG=latest
-NAMESPACE=<YOUR_NAME>-dev
+NAMESPACE=justin-dev
